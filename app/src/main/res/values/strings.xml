@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pemesana Tiket Kereta P6</string>
+    <array name="Tujuan" color="868686">
+        <item>Klaten</item>
+        <item>Purbalingga</item>
+        <item>Purwokerto</item>
+        <item>Purworejo</item>
+        <item>Salatiga</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+        <item>Surakarta</item>
+        <item>Tegal</item>
+        <item>Banjar Negara</item>
+        <item>Yogyakarta</item>
+    </array>
+</resources>
